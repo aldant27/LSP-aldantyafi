@@ -43,8 +43,8 @@ class SettingView extends GetView<SettingController> {
                   ),
                 ),
                 Text("Aplikasi ini dibuat oleh:"),
-                Text("Nama\t\t\t\t: Dito Cahya Pratama"),
-                Text("NIM\t\t\t\t\t\t\t: 1941720030"),
+                Text("Nama\t\t\t\t: Aldant Yafi Abida"),
+                Text("NIM\t\t\t\t\t\t\t: 2141764009"),
                 Text("Tanggal\t: 23 September 2023"),
               ],
             )

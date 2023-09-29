@@ -4,6 +4,7 @@ import 'package:my_cash_book/app/utils/hash_password.dart';
 import 'package:path/path.dart';
 import 'package:sqflite/sqflite.dart';
 
+
 class DatabaseHelper {
   static final DatabaseHelper instance = DatabaseHelper._privateConstructor();
 
